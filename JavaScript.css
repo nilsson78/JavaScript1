@@ -9,10 +9,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
+    text-align: center;
 }
 
 .javascript2 {
     background-color: rgb(46, 30, 79);
+    text-align: center;
 }
 
 .top1 {
@@ -88,17 +90,8 @@ fieldset {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.alert {
-    align-items: center;
-    align-content: center;
-}
-
-.prompt {
-    align-items: center;
-    align-content: center;
-}
-
-.confirm {
-    align-items: center;
-    align-content: center;
+.variables_prompt {
+    text-align: center;
+    color: white;
+    background-color: rgb(46, 30, 79);
 }
